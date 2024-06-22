@@ -1,0 +1,17 @@
+xpath 
+pegar o nome da tag[@atributo='valor']
+
+onde :
+<div>, <h1>, <label>, <input> = são tags 
+id, for, type = são atributos 
+valores são os que estão dentro dos atributos
+com as aspas 
+
+clico dentro da class
+dou crl+f
+escrevo 
+//input[@class="form-control"]
+no site em questão, vão aparecer 2 ocorrências do cód acima
+fazer teste então com o id
+//input[@id="email"]
+este input tem só uma ocorrência

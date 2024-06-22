@@ -1,0 +1,13 @@
+1 - Navegar até o site 
+https://contabilidade-devaprender.netlify.app/
+
+2 - Digitar o e-email
+3 - Digitar a senha 
+
+4 - Clicar em entrar 
+
+5 - Clicar em cada campo e preencher com a informação extraída da planilha
+
+6 - clicar em cadastrar 
+
+7 - Repito passo 5 e 6 

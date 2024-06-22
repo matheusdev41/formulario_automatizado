@@ -1,0 +1,12 @@
+Preciso ter um bot assistente que faça minhas funções de lançamento contábil da 
+empresa que trabalho, pois o próprio sistema é muito maçante e gostaria de fazer os 
+lançamentos no excel, entregar ao bot o excel pronto para o bot ir lançando enquanto 
+faço outras atividades. 
+
+# Qual é o processo que deve ser automatizado ( de forma resumida)
+Preenchimento de campos, com base em uma planilha
+
+
+# Quais( se for o caso ) arquivos e ou sites que são necessários 
+- planilha 
+- link do site (login do site)
